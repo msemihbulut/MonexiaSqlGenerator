@@ -4,7 +4,7 @@ MonexiaSqlGenerator, Monexia kişisel finans yönetim uygulaması için gerçek�
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - **Gerçekçi Finansal Kayıtlar:** Farklı kullanıcılar için gelir ve gider işlemleri, çeşitli kategorilerde otomatik olarak üretilir.
 - **Kategori Desteği:** Gıda, ulaşım, konut, sağlık, eğitim, eğlence, fatura, giyim, tatil, kredi kartı ödemesi, abonelikler ve daha fazlası.
@@ -15,13 +15,13 @@ MonexiaSqlGenerator, Monexia kişisel finans yönetim uygulaması için gerçek�
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 MonexiaSqlGenerator/     
 ├── Program.cs # Ana uygulama ve veri üretim mantığı     
 ├── (Çıktı) transactions_userX.sql # Her kullanıcı için üretilen SQL dosyaları    
 
 
-## 🛠️ Özelleştirme
+## Özelleştirme
 
 - **Kullanıcı ve Kayıt Sayısı:**  
   `Program.cs` dosyasında, her kullanıcı için `userId`, `totalRecords` ve `incomeRatio` parametrelerini değiştirebilirsiniz.
@@ -32,13 +32,13 @@ MonexiaSqlGenerator/
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 Bu projenin lisans durumu için [LICENSE](LICENSE) kısmını kontrol edebilirsiniz.
 
 ---
 
-## 📞 İletişim
+## İletişim
 
 Her türlü soru ve öneriniz için:  
 **E-posta:** msemihbulut@gmail.com
